@@ -1,0 +1,12 @@
+insert into Person(id, name, birth) values (1, 'Jose', '2001-01-01');
+insert into Person(id, name, birth) values (2, 'Maria', '2002-01-01');
+insert into Person(id, name, birth) values (3, 'Jesus', '2003-01-01');
+insert into Person(id, name, birth) values (4, 'Daniella', '2004-01-01');
+insert into Person(id, name, birth) values (5, 'Manuel', '2005-01-01');
+insert into Person(id, name, birth) values (6, 'Carola', '2006-01-01');
+insert into Person(id, name, birth) values (7, 'Lucia', '2007-01-01');
+insert into Person(id, name, birth) values (8, 'Marcos', '2008-01-01');
+insert into Person(id, name, birth) values (9, 'Pedro', '2009-01-01');
+insert into Person(id, name, birth) values (10, 'Lidia', '2010-01-01');
+insert into Person(id, name, birth) values (11, 'Benito', '2011-01-01');
+insert into Person(id, name, birth) values (12, 'Benita', '2012-01-01');
